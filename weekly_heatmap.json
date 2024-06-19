@@ -6,7 +6,7 @@
   "descriptor": {
     "type": "timeseries",
     "sizeX": 4.5,
-    "sizeY": 3,
+    "sizeY": 6.5,
     "resources": [
       {
         "url": "https://cdn.jsdelivr.net/npm/echarts@5.3.0/dist/echarts.min.js"
